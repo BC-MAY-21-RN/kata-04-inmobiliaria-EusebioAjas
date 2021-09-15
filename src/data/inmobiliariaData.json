@@ -1,0 +1,42 @@
+[
+  {
+    "name": "The Willows",
+    "address": "3516 W. Gray St. Utica",
+    "rooms": 2,
+    "bathrooms": 1,
+    "surface": "229 ft2",
+    "rentalCostbyMonth": 439,
+    "rate": 3.7,
+    "isFavorite": false,
+  },
+  {
+    "name": "The Willows2",
+    "address": "3517 W. Gray St. Utica",
+    "rooms": 3,
+    "bathrooms": 2,
+    "surface": "230 ft2",
+    "rentalCostbyMonth": 440,
+    "rate": 4.7,
+    "isFavorite": false,
+  },
+  {
+    "name": "The Willows3",
+    "address": "3517 W. Gray St. Utica",
+    "rooms": 3,
+    "bathrooms": 2,
+    "surface": "230 ft2",
+    "rentalCostbyMonth": 440,
+    "rate": 4.7,
+    "isFavorite": false,
+  },
+  {
+    "name": "The Willows4",
+    "address": "3517 W. Gray St. Utica",
+    "rooms": 3,
+    "bathrooms": 2,
+    "surface": "230 ft2",
+    "rentalCostbyMonth": 440,
+    "rate": 4.7,
+    "isFavorite": false,
+  }
+]
