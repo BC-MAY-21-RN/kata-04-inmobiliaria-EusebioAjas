@@ -1,42 +1,46 @@
 [
   {
+    "id": 1,
     "name": "The Willows",
     "address": "3516 W. Gray St. Utica",
     "rooms": 2,
     "bathrooms": 1,
-    "surface": "229 ft2",
-    "rentalCostbyMonth": 439,
+    "surface": "230 ft²",
+    "rentalCostbyMonth": "$450/m",
     "rate": 3.7,
-    "isFavorite": false,
+    "imgUrl": "https://img10.naventcdn.com/avisos/18/00/60/88/25/97/720x532/253687063.jpg"
   },
   {
-    "name": "The Willows2",
+    "id": 2,
+    "name": "Americas House",
     "address": "3517 W. Gray St. Utica",
     "rooms": 3,
     "bathrooms": 2,
-    "surface": "230 ft2",
-    "rentalCostbyMonth": 440,
+    "surface": "230 ft²",
+    "rentalCostbyMonth": "$380/m",
     "rate": 4.7,
-    "isFavorite": false,
+    "imgUrl": "https://n7t2r2r7.stackpathcdn.com/SadasiR2/wp-content/uploads/2018/11/casa-modelo-merida-las-americas-merida-yucatan.jpg"
   },
   {
-    "name": "The Willows3",
+    "id": 3,
+    "name": "Orchard House",
     "address": "3517 W. Gray St. Utica",
     "rooms": 3,
     "bathrooms": 2,
-    "surface": "230 ft2",
-    "rentalCostbyMonth": 440,
-    "rate": 4.7,
-    "isFavorite": false,
+    "surface": "230 ft²",
+    "rentalCostbyMonth": "$550/m",
+    "rate": 3.5,
+    "imgUrl": "https://yt3.ggpht.com/ytc/AKedOLSDMosWl53aRWCc9N0AKYzlRVyotf7UYM7cRmWzeA=s900-c-k-c0x00ffffff-no-rj"
   },
   {
-    "name": "The Willows4",
+    "id": 4,
+    "name": "Corner House",
     "address": "3517 W. Gray St. Utica",
     "rooms": 3,
     "bathrooms": 2,
-    "surface": "230 ft2",
-    "rentalCostbyMonth": 440,
-    "rate": 4.7,
-    "isFavorite": false,
+    "surface": "230 ft²",
+    "rentalCostbyMonth": "$440/m",
+    "rate": 4.6,
+    "imgUrl":"https://phantom-expansion.unidadeditorial.es/7a01447f134fa1a4baadf1c5174644cf/resize/640/assets/multimedia/imagenes/2021/03/16/16158875126483.jpg"
   }
 ]
